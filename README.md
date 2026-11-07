@@ -146,11 +146,4 @@ dpdp-breach-response-playbook/
 
 ## 👩‍💻 About the author
 
-**Khooshi Joshi** · Data Privacy & GRC
-
-- MSc, Digital Forensics & Information Security, National Forensic Science University
-- ISO/IEC 27001 certified
-- Experience: Associate GRC (ISO 27001, GDPR, DPDP, Microsoft Purview, DLP); Cyber Crime Cell internship (malware analysis, OSINT)
-
-📫 Open to **Data Privacy, GRC and Cyber Risk** roles.
-🔗 More projects: [github.com/khooshijoshi30](https://github.com/khooshijoshi30)
+**Khooshi Joshi**
