@@ -131,6 +131,7 @@ A **scoring sheet** rates 9 capabilities from 1 to 5, and low scores become trac
 Part of a series built for the same fictional company:
 
 - [ROPA & DPIA: AI Credit Scoring at an Indian NBFC](https://github.com/khooshijoshi30/dpdp-ropa-dpia-assessment)
+- [Vendor Risk Desk: TPRM programme and working risk scoring tool](https://github.com/khooshijoshi30/vendor-risk-desk)
 
 ---
 
