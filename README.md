@@ -132,6 +132,7 @@ Part of a series built for the same fictional company:
 
 - [ROPA & DPIA: AI Credit Scoring at an Indian NBFC](https://github.com/khooshijoshi30/dpdp-ropa-dpia-assessment)
 - [Vendor Risk Desk: TPRM programme and working risk scoring tool](https://github.com/khooshijoshi30/vendor-risk-desk)
+- [GRC Dashboard: risk register and ISO 27001:2022 compliance tracking (Flask)](https://github.com/khooshijoshi30/grc-dashboard)
 
 ---
 
